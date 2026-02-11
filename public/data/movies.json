@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genre": "Science Fiction",
+    "rating": 8.6,
+    "posterUrl": "https://es.web.img3.acsta.net/pictures/24/02/20/17/42/2385575.jpg",
+    "description": "Paul Atreides unites with the Fremen to seek revenge against those who destroyed his family.",
+    "duration": 166,
+    "director": "Denis Villeneuve"
+  },
+  {
+    "id": "2",
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Biography",
+    "rating": 8.4,
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTFlZDI1YWQtMTVjNy00YWU1LTg2YjktMTlhYmRiYzQ3NTVhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "description": "The story of J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "duration": 180,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "3",
+    "title": "Spider‑Man: No Way Home",
+    "year": 2021,
+    "genre": "Action",
+    "rating": 8.2,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+    "description": "Spider‑Man seeks help from Doctor Strange after his identity is revealed, causing multiverse chaos.",
+    "duration": 148,
+    "director": "Jon Watts"
+  },
+  {
+    "id": "4",
+    "title": "Avatar: The Way of Water",
+    "year": 2022,
+    "genre": "Science Fiction",
+    "rating": 7.6,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",
+    "description": "Jake Sully and his family face new threats on Pandora while exploring the ocean clans.",
+    "duration": 192,
+    "director": "James Cameron"
+  },
+  {
+    "id": "5",
+    "title": "Avengers: Endgame",
+    "year": 2019,
+    "genre": "Superhero",
+    "rating": 8.4,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+    "description": "The Avengers assemble once more to reverse Thanos' actions and restore balance to the universe.",
+    "duration": 181,
+    "director": "Anthony Russo, Joe Russo"
+  }
+]
